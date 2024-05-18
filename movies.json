@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "isbn": "978-0-06-112008-4",
+      "title": "To Kill a Mockingbird",
+      "director": {
+        "firstName": "Robert",
+        "lastName": "Mulligan"
+      }
+    },
+    {
+      "id": "2",
+      "isbn": "978-0-618-05674-9",
+      "title": "The Great Gatsby",
+      "director": {
+        "firstName": "Baz",
+        "lastName": "Luhrmann"
+      }
+    },
+    {
+      "id": "3",
+      "isbn": "978-0-544-20357-0",
+      "title": "The Lord of the Rings",
+      "director": {
+        "firstName": "Peter",
+        "lastName": "Jackson"
+      }
+    }
+  ]
+  
